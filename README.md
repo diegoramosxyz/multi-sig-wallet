@@ -1,2 +1,1 @@
-# multi-sig-wallet
-Multi-signature wallet for Ethereum.
+# Multi-Sig Wallet
